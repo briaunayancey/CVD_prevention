@@ -15,8 +15,8 @@ The data set used is in our resources file which can also be found on this link,
 https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease .
 We will be using Jupyter notebook for data cleaning and handling missing values
 
-# Model Selection
-Classification Algorithms & Decision Trees
+# Model Selection (Classification Algorithms & Decision Trees)
+
 
 
 # Model Training and Evaluation
